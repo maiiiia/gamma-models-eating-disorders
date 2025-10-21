@@ -1,0 +1,10 @@
+tidyverse
+ggplot2
+dplyr
+tidyr
+readr
+stats
+nleqslv
+readxl
+zoo
+pracma
